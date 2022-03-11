@@ -1,6 +1,7 @@
 # serverCheckerPlusTelegramBot
 
-This will send the result of serverChecker into the Telegram Bot\n
+This will send the result of serverChecker into the Telegram Bot
+
 More details please check BotFather in telegram
 
 ## General info
