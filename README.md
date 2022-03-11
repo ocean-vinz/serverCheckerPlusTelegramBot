@@ -17,6 +17,6 @@ Project is created with:
 	
 ## Dashboard snapshot
 
-![name-of-you-image](https://github.com/ocean-vinz/splunk-mobile-telecommunication-outages/blob/68d9ac622c558ea3ee95fd1c311b68f2c3e49a53/Major%20Outage.png)
+![name-of-you-image](https://github.com/ocean-vinz/serverCheckerPlusTelegramBot/blob/main/Telegram%20Bot.png)
 
 Download it and have fun!
