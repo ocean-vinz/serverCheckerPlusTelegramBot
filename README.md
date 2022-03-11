@@ -1,11 +1,10 @@
 # serverCheckerPlusTelegramBot
 
-This will send the result of serverChecker into the Telegram Bot
+This will send the result of serverChecker into the Telegram Bot\n
 More details please check BotFather in telegram
 
 ## General info
 I built this project to help the team check the liveness of the servers from the comfort of their cellphone using Telegram API
-
 
 
 ## Technologies
@@ -14,8 +13,7 @@ Project is created with:
 * pip python-telegram-bot
 
 
-	
-## Dashboard snapshot
+## Telegram snapshot
 
 ![name-of-you-image](https://github.com/ocean-vinz/serverCheckerPlusTelegramBot/blob/main/Telegram%20Bot.png)
 
